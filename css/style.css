@@ -1,0 +1,5 @@
+.div10 { width: 20px; height: 20px; border: 1px solid #999999; float:left; margin: 2px; text-align: center; }
+.bos { border: none; background: none; border: 1px solid transparent; }
+.clr { clear: both; }
+.red { background: red; }
+.white { background: white; }
