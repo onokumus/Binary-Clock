@@ -1,1 +1,1 @@
-jQuery Binary Clock Example
+Binary Clock Example
